@@ -76,10 +76,10 @@ The EDA results identified that **Heart Rate**, **Duration**, and **Weight** are
 ```
 📦 ML-Projects-Calorie-Burnt-Prediction
 │
-├── Calorie_Burnt_Prediction.ipynb # Model implementation
-├── calories.csv # Dataset used for training and testing
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
+├── Calories_Burnt_Prediction.ipynb                                 # Model implementation
+├── calories.csv                                                    # Dataset used for training and testing
+├── exercise.csv                                                    # Additional dataset
+└── README.md                                                       # Project documentation
 ```
 
 ---
